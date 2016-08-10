@@ -46,6 +46,9 @@ Table 2. Best features extracted from the dataset and their information gain.
 | 4	      | 0.370476          |
 | 5	      | 0.501114          |
 
+##ScreenShot
+![ScreenShot](https://github.com/arundasan91/Machine-Learning/blob/master/InformationGain_Based_Feature_Extration/infogain.png "ScreenShot")
+
 ##Issues and Conclusion
 A simple averaging feature extraction algorithm based on information gain is implemented. The same code can be adapted to other algorithms to make complex decisions for extracting the features. The program is written with speed and efficiency in mind. The usage of vectors instead of arrays and proper deletion of dynamically allocated memory is a few points highlighting it.
 
